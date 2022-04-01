@@ -1,0 +1,59 @@
+{
+  "name": "softball",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^1.9.0",
+    "@patternfly/react-charts": "^6.51.19",
+    "@patternfly/react-core": "^4.181.1",
+    "@patternfly/react-table": "^4.50.1",
+    "@react-google-maps/api": "^2.7.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.2",
+    "jslint": "^0.12.1",
+    "linkify-react": "^3.0.4",
+    "linkifyjs": "^3.0.5",
+    "list-files": "^1.1.4",
+    "list-react-files": "^0.2.0",
+    "mysql": "^2.18.1",
+    "react": "^17.0.2",
+    "react-confirm-alert": "^2.8.0",
+    "react-dom": "^17.0.2",
+    "react-facebook": "^8.1.4",
+    "react-google-calendar-api": "^1.5.2",
+    "react-grid-gallery": "^0.5.5",
+    "react-helmet": "^6.1.0",
+    "react-image-gallery": "^1.2.7",
+    "react-linkify": "^1.0.0-alpha",
+    "react-query": "^3.34.8",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "react-twitter-widgets": "^1.10.0",
+    "reactstrap": "^9.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

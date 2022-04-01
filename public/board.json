@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "name": "Christine Culligan",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "N/A",
+    "title": "President"
+  },
+  {
+    "id": "2",
+    "name": "Rose Ivie",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "gia921@comcast.net",
+    "title": "Vice President"
+  },
+  {
+    "id": "3",
+    "name": "Tarra Fermane",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "N/A",
+    "title": "Treasurer"
+  },
+  {
+    "id": "4",
+    "name": "Christina Naughton",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "N/A",
+    "title": "Secretary"
+  },
+  {
+    "id": "5",
+    "name": "Ahmed Gresham",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "N/A",
+    "title": "Equipment Maintenance"
+  },
+  {
+    "id": "6",
+    "name": "Joe Fermane",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "N/A",
+    "title": "Field Maintenance"
+  },
+  {
+    "id": "7",
+    "name": "Michael Culligan",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "N/A",
+    "title": "Stand Coordinator"
+  },
+  {
+    "id": "8",
+    "name": "Jenya Gonzalez",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "N/A",
+    "title": "Stand Scheduler"
+  },
+  {
+    "id": "9",
+    "name": "Helen Gresham",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "N/A",
+    "email": "N/A",
+    "title": "Field Coordinator"
+  },
+  {
+    "id": "10",
+    "name": "Harry Devine",
+    "imgURL":"/blank-avatar.jpg",
+    "phone": "(609)276-0555",
+    "email": "lifter89@comcast.net",
+    "title": "Website Coordinator"
+  }
+]
+
